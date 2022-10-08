@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicolò Curioni
-- 👀 I’m interested in developing Mobile Apps (iOS, Android and/or Flutter)... ehm, also Web Devlopment.
+- 👀 I’m interested in developing Mobile Apps (iOS, Android and/or Flutter)... ehm, also Web Development.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me? Simply by write me an email at: nicolo.curioni96 [at] gmail.com
